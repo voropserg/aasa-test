@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J4446JZMH3.com.xyzeron.Exponat",
+        "paths": [ "/exponat-app", "/exponat-app/*" ]
+      }
+    ]
+  }
+}
